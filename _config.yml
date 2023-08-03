@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 2975177159@qq.com
 description: "心潮彭湃，春暖花开"
 keyword: "GT Blog, GT的小站， 彭思雨， 一生所想， 一生所向"
-url: "https://kalicn.github.io"          # your host, for absolute URL
+url: "https://GT-LCK.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
 
